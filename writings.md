@@ -14,7 +14,13 @@ fiction
 
 ::  [Actress](http://www.brooklynrail.org/2015/03/fiction/two-stories-from-portraits-and-conversations)::  [Beirut](https://docs.google.com/document/d/1sRZwvbY_xxhaDnwbAbpZBdxbxnX8BOnDtNqQ8Ay5Nq4/edit?usp=sharing)
 
-::  [Fiction](http://www.brooklynrail.org/2008/05/fiction/fiction)::  [Atlas](http://www.harpandaltar.com/interior.php?t=s&i=2&p=15&e=24)::  [And/Or: A Novel](http://www.pierogi2000.com/2014/09/pierogi-press-no-10-johannah-rodgers-andor-a-novel/)::  [Portraits and Conversations](https://reader.exacteditions.com/issues/62349/spread/9)::  [Before Afternoon](https://reader.exacteditions.com/issues/62586/spread/7)::  [Outside](http://www.brooklynrail.org/2003/08/fiction/outside)
+::  [Fiction](http://www.brooklynrail.org/2008/05/fiction/fiction)
+
+::  [Atlas](http://www.harpandaltar.com/interior.php?t=s&i=2&p=15&e=24)
+
+::  [And/Or: A Novel](http://www.pierogi2000.com/2014/09/pierogi-press-no-10-johannah-rodgers-andor-a-novel/)::  [Portraits and Conversations](https://reader.exacteditions.com/issues/62349/spread/9)
+
+::  [Before Afternoon](https://reader.exacteditions.com/issues/62586/spread/7)::  [Outside](http://www.brooklynrail.org/2003/08/fiction/outside)
 
 fact
 
@@ -32,11 +38,7 @@ fact
 
 ::  [Description 1: 11233: Saratoga Park](https://drive.google.com/file/d/0B_AWsp3ol_kVT0c0VExySmc0c0U/view?usp=sharing)  [[performance](http://apexart.org/events/double-take-17.php)] [[plaintext](https://docs.google.com/document/d/1TN16_vsRBkGNzepguoUIhOSdcO3M48jqlNQDjqufzfU/edit?usp=sharing)] [about]
 
-::  [Wealth Begins With Human Need: Machines Can't "Read," or Remediating](http://www.essaypress.org/ep-26/)[Marx's _Capital Volume 1_](http://www.essaypress.org/ep-26/)
-    [[Essay Press chapbook](http://www.essaypress.org/ep-26/)  
-    [drawing](https://drive.google.com/file/d/0B_AWsp3ol_kVNkJ4bzBMQWtMbm8/view?usp=sharing)  
-    [plaintext](https://drive.google.com/file/d/0B_AWsp3ol_kVWmVHeXNRdDNHdlU/view?usp=sharing)  
-    [video](https://vimeo.com/123200344)]
+::  [Wealth Begins With Human Need: Machines Can't "Read," or Remediating](http://www.essaypress.org/ep-26/)[Marx's _Capital Volume 1_](http://www.essaypress.org/ep-26/)   [[Essay Press chapbook](http://www.essaypress.org/ep-26/)   [drawing](https://drive.google.com/file/d/0B_AWsp3ol_kVNkJ4bzBMQWtMbm8/view?usp=sharing)    [plaintext](https://drive.google.com/file/d/0B_AWsp3ol_kVWmVHeXNRdDNHdlU/view?usp=sharing)  [video](https://vimeo.com/123200344)]
 
 ::  [Technology: A Reader for Writers](http://global.oup.com/ushe/product/technology-9780199340736?lang=en&cc=us)
 
