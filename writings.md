@@ -18,7 +18,7 @@ fiction
 
 fact
 
-:: 	"Before the Byte, There Was the Word: Exploring the Provenance and Import of the 'Computer Word' for Humans, for Digital Computers, and for Their Relations" [ELO 2020 presentation]
+:: 	"Before the Byte, There Was the Word: Exploring the Provenance and Import of the Computer Word for Humans, for Digital Computers, and for Their Relations" [ELO 2020 presentation]
 
 :: 	the admirably fast colors speak in linen: some reflections on note 16 of Kepler's _Somnium_ [[chapbook](http://www.digitalcomposition.org/Rodgers.Keplers.Somnium.7x7.2019.pdf)] [[junkmail collage](https://johannahrodgers.wordpress.com/hybrid-objects-art-by-the-yard/)]
 
