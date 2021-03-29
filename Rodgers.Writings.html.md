@@ -5,7 +5,8 @@ fiction
 ::  [An Excerpt from _DNA3_](https://burninghousepress.com/2018/08/24/dna-by-johannah-rodgers/)<br>
 ::  [She](https://www.natbrut.com/johannah-rodgers)<br>
 ::  [Brenda](http://blacksunlit.com/2017/02/brenda-by-johannah-rodgers/)<br>
-::  [The Last Election](http://www.brooklynrail.org/2016/11/fiction/the-last-election)::  [DNA: A Networked Fiction Project](http://www.brooklynrail.org/fiction/DNA/dna_excerpt.html) [[excerpt from DNA1 @ Numero Cinq]](http://numerocinqmagazine.com/2011/04/14/from-dna-a-novel-by-johannah-rodgers/)::  [Some Version of Herself](http://www.brooklynrail.org/2015/03/fiction/two-stories-from-portraits-and-conversations)<br>
+::  [The Last Election](http://www.brooklynrail.org/2016/11/fiction/the-last-election)::  [DNA: A Networked Fiction Project](http://www.brooklynrail.org/fiction/DNA/dna_excerpt.html) [[excerpt from DNA1 @ Numero Cinq]](http://numerocinqmagazine.com/2011/04/14/from-dna-a-novel-by-johannah-rodgers/)<br>
+::  [Some Version of Herself](http://www.brooklynrail.org/2015/03/fiction/two-stories-from-portraits-and-conversations)<br>
 ::  [Actress<br>](http://www.brooklynrail.org/2015/03/fiction/two-stories-from-portraits-and-conversations)::  [Beirut](https://docs.google.com/document/d/1sRZwvbY_xxhaDnwbAbpZBdxbxnX8BOnDtNqQ8Ay5Nq4/edit?usp=sharing)<br>
 ::  [Fiction<br>](http://www.brooklynrail.org/2008/05/fiction/fiction)::  [Atlas<br>](http://www.harpandaltar.com/interior.php?t=s&i=2&p=15&e=24)::  [And/Or: A Novel](http://www.pierogi2000.com/2014/09/pierogi-press-no-10-johannah-rodgers-andor-a-novel/)<br>
 ::  [Portraits and Conversations<br>]()::  [Before Afternoon<br>](https://reader.exacteditions.com/issues/62586/spread/7)::  [Outside](http://www.brooklynrail.org/2003/08/fiction/outside)
