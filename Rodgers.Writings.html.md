@@ -14,7 +14,7 @@ fact
 
 :: "Word Drawings" [[Practice Sharing, Winter 2020](https://www.researchcatalogue.net/view/835089/1019935/6956/1)]<br>
 :: "Before the Byte, There Was the Word: Exploring the Provenance and Import of the 'Computer Word' for Humans, for Digital Computers, and for Their Relations" [[ELO 2020 presentation](https://stars.library.ucf.edu/elo2020/asynchronous/talks/11/)]<br>
-:: "The Future of Text: More Questions Than Answers" [The Future of Text](https://johannahrodgers.github.io/Rodgers.Future.of.Text.pdf)
+:: "The Future of Text: More Questions Than Answers" [The Future of Text](https://johannahrodgers.github.io/Rodgers.Future.of.Text.pdf)<br>
 ::  the admirably fast colors speak in linen: some reflections on note 16 of Kepler's _Somnium_ [[chapbook](http://www.digitalcomposition.org/Rodgers.Keplers.Somnium.7x7.2019.pdf)] [[junkmail collage](https://johannahrodgers.wordpress.com/hybrid-objects-art-by-the-yard/)]<br>
 ::  (Re)Mediating Alphabetic Language [[ELO 2019 presentation](https://drive.google.com/file/d/1uYrIV2VBHR8isLG1q26s-JUIz992HQ7Z/view?usp=sharing)] [[work in progress](https://johannahrodgers.wordpress.com/remediating-alphabetic-language/)]<br>
 ::   [The Genealogy of an Image, or, What Does Literature (Not) Have To Do with the History of Computing?](http://www.mdpi.com/2076-0787/6/4/85)<br>
