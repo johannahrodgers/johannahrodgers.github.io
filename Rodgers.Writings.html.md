@@ -13,7 +13,7 @@ fiction
 ::  [Fiction](http://www.brooklynrail.org/2008/05/fiction/fiction)<br>
 ::  [Atlas](http://www.harpandaltar.com/interior.php?t=s&i=2&p=15&e=24)<br>
 ::  [And/Or: A Novel](http://www.pierogi2000.com/2014/09/pierogi-press-no-10-johannah-rodgers-andor-a-novel/)<br>
-::  [Portraits and Conversations]()<br>
+::  [Portraits and Conversations](https://www.fenceportal.org/from-portraits-and-conversations/)<br>
 ::  [Before Afternoon](https://reader.exacteditions.com/issues/62586/spread/7)<br>
 ::  [Outside](http://www.brooklynrail.org/2003/08/fiction/outside)
 
