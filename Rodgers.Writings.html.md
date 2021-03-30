@@ -65,7 +65,11 @@ chapbooks
 ::   [not a book](https://drive.google.com/file/d/0B_AWsp3ol_kVMUE5a0o4OUg2MVE/edit?usp=sharing) [about]<br>
 ::   The Coop Articles: Dispatches from the Park Slope Food Coop, 2002-2007 [[print edition](http://www.berlspoetry.com/); [digital copy](https://drive.google.com/file/d/0B_AWsp3ol_kVVG1yWXNHWWlpVWM/view?usp=sharing)] [about]<br>
 ::   [A St. Ives Daybook](https://drive.google.com/file/d/0B_AWsp3ol_kVWThBemF2NFBneVU/view?usp=sharing)<br>
-::   [BEGINHERE<br>](https://drive.google.com/file/d/0B_AWsp3ol_kVcktNRS04Z3Zkb3M/edit?usp=sharing)::   [A Living Lexicon for the Deacquisition of Lyrical Tendencies](https://docs.google.com/document/d/1vGbTEsPNzWzxNecYRA_W1C9IRs3zPKMgoVqrfiygKqk/edit?usp=sharing)::   [Work In Progress<br>](https://drive.google.com/file/d/0B_AWsp3ol_kVQkVoekxKaWxaTVk/edit?usp=sharing)::   [Atlas<br>](https://drive.google.com/file/d/0B_AWsp3ol_kVSF9XcFNkS0NuS2s/edit?usp=sharing)::   Necessary Fictions ([Sona Books](http://www.jillmagi.net/sona-books-archive), 2003)
+::   [BEGINHERE<br>](https://drive.google.com/file/d/0B_AWsp3ol_kVcktNRS04Z3Zkb3M/edit?usp=sharing)
+::   [A Living Lexicon for the Deacquisition of Lyrical Tendencies](https://docs.google.com/document/d/1vGbTEsPNzWzxNecYRA_W1C9IRs3zPKMgoVqrfiygKqk/edit?usp=sharing)
+::   [Work In Progress<br>](https://drive.google.com/file/d/0B_AWsp3ol_kVQkVoekxKaWxaTVk/edit?usp=sharing)
+::   [Atlas<br>](https://drive.google.com/file/d/0B_AWsp3ol_kVSF9XcFNkS0NuS2s/edit?usp=sharing)
+::   Necessary Fictions ([Sona Books](http://www.jillmagi.net/sona-books-archive), 2003)
 
 links to earlier work
 
